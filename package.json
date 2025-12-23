@@ -1,0 +1,19 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Making my first backend project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "express",
+    "js",
+    "database"
+  ],
+  "author": "Aditya Bhushan Rai",
+  "license": "ISC"
+}
